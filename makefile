@@ -5,10 +5,10 @@
 # Set COMPRESSED to "YES" to create a compressed program
 # ----------------------------
 
-NAME = DINO
+NAME = Yoshi DINO
 COMPRESSED = YES
 ICON = iconc.png
-DESCRIPTION = "Dino Run CE"
+DESCRIPTION = "Google Dino Game on Calc"
 
 # ----------------------------
 # Other Options (Advanced)
